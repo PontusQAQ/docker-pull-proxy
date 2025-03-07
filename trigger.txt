@@ -1,2 +1,3 @@
 nginx:1.24.0 crpi-1y0cayn3vnq47l5d.cn-shanghai.personal.cr.aliyuncs.com/selfdify/nginx:1.24.0
 nginx:latest crpi-1y0cayn3vnq47l5d.cn-shanghai.personal.cr.aliyuncs.com/selfdify/nginx:latest
+ubuntu/squid:latest crpi-1y0cayn3vnq47l5d.cn-shanghai.personal.cr.aliyuncs.com/selfdify/squid:latest
