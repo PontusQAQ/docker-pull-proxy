@@ -6,3 +6,4 @@ redis:6-alpine crpi-1y0cayn3vnq47l5d.cn-shanghai.personal.cr.aliyuncs.com/selfdi
 semitechnologies/weaviate:1.19.0 crpi-1y0cayn3vnq47l5d.cn-shanghai.personal.cr.aliyuncs.com/selfdify/weaviate:1.19.0
 langgenius/dify-api:1.0.0 crpi-1y0cayn3vnq47l5d.cn-shanghai.personal.cr.aliyuncs.com/selfdify/dify-api:1.0.0
 langgenius/dify-web:1.0.0 crpi-1y0cayn3vnq47l5d.cn-shanghai.personal.cr.aliyuncs.com/selfdify/dify-web:1.0.0
+langgenius/dify-sandbox:latest crpi-1y0cayn3vnq47l5d.cn-shanghai.personal.cr.aliyuncs.com/selfdify/dify-sandbox:latest
