@@ -1,1 +1,1 @@
-nginx:1.24.0 registry.cn-shanghai.aliyuncs.com/selfdify/nginx:1.24.0
+nginx:1.24.0 crpi-1y0cayn3vnq47l5d.cn-shanghai.personal.cr.aliyuncs.com/selfdify/nginx:1.24.0
