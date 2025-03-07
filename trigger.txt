@@ -4,3 +4,4 @@ ubuntu/squid:latest crpi-1y0cayn3vnq47l5d.cn-shanghai.personal.cr.aliyuncs.com/s
 postgres:15-alpine crpi-1y0cayn3vnq47l5d.cn-shanghai.personal.cr.aliyuncs.com/selfdify/postgres:15-alpine
 redis:6-alpine crpi-1y0cayn3vnq47l5d.cn-shanghai.personal.cr.aliyuncs.com/selfdify/redis:6-alpine
 semitechnologies/weaviate:1.19.0 crpi-1y0cayn3vnq47l5d.cn-shanghai.personal.cr.aliyuncs.com/selfdify/weaviate:1.19.0
+langgenius/dify-api:1.0.0 crpi-1y0cayn3vnq47l5d.cn-shanghai.personal.cr.aliyuncs.com/selfdify/dify-api:1.0.0
